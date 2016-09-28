@@ -1,8 +1,8 @@
-import { ModuleWithProviders }  from '@angular/core';
+import { ModuleWithProviders } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import { DashboardComponent }   from './components/dashboard.component';
-import { UserProfileComponent }   from './components/user-profile.component';
+import { DashboardComponent } from './components/dashboard.component';
+import { UserProfileComponent } from './components/user-profile.component';
 
 const appRoutes: Routes = [
   {

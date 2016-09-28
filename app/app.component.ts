@@ -5,7 +5,6 @@ import { Component } from '@angular/core';
   template: `
     <fx-navbar></fx-navbar>
     <fx-content></fx-content>
-    <fx-footer></fx-footer>
   `
 })
 

@@ -3,9 +3,9 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'fx-content',
   template: `
-    <div>
-      <h4>Content</h4>
+    <div class="main-panel">
       <router-outlet></router-outlet>
+      <fx-footer></fx-footer>
     </div>
   `
 })
